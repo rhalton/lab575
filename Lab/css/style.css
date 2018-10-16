@@ -1,0 +1,57 @@
+/* Stylesheet by Buck E. Badger, 2015 */
+
+
+
+
+#map {
+    height: 645px;
+    width: 76%;
+    display: inline-block;
+    
+}
+
+
+.leaflet-popup-content p {
+    margin: 0.2em 0;
+}
+
+#panel2 {
+    width: 20%;
+    padding: 1px;
+    display: block;
+    vertical-align: bottom;
+    text-align: center;
+    line-height: 8px;
+    text-decoration-style: solid;
+    font-size: 11;
+    float: right;
+    
+
+    
+}
+
+
+#panel {
+    width: 20%;
+    padding: 20px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    line-height: 42px;
+    font-size: 26px;
+    font-style: italic;
+    background-color: azure;
+}
+
+
+.range-slider {
+    width: 60%;
+}
+
+#forward {
+    float: right;
+}
+
+#reverse {
+    float: left;
+}

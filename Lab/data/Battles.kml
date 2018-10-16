@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Battles" id="Battles">
+	<SimpleField name="Battle" type="string"></SimpleField>
+	<SimpleField name="Date" type="string"></SimpleField>
+	<SimpleField name="Importance " type="string"></SimpleField>
+	<SimpleField name="latitude" type="float"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+	<SimpleField name="Importance_rating" type="string"></SimpleField>
+</Schema>
+<Folder><name>Battles</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Battles">
+		<SimpleData name="Battle">Battle of Marathon </SimpleData>
+		<SimpleData name="Date">September, 490 BC</SimpleData>
+		<SimpleData name="latitude">38.118056</SimpleData>
+		<SimpleData name="Longitude">23.978333</SimpleData>
+		<SimpleData name="Importance_rating">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>23.978333,38.118056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Battles">
+		<SimpleData name="Battle">Battle of Gaugamela</SimpleData>
+		<SimpleData name="Date">October 331 BC</SimpleData>
+		<SimpleData name="latitude">36.191111</SimpleData>
+		<SimpleData name="Longitude">44.009167</SimpleData>
+		<SimpleData name="Importance_rating">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>44.009167,36.191111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Battles">
+		<SimpleData name="Battle">Battle of Zama</SimpleData>
+		<SimpleData name="Date">202 BC</SimpleData>
+		<SimpleData name="latitude">36.298889</SimpleData>
+		<SimpleData name="Longitude">9.449167</SimpleData>
+		<SimpleData name="Importance_rating">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>9.449167,36.298889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Battles">
+		<SimpleData name="Battle">Battle of Adrianople</SimpleData>
+		<SimpleData name="Date">August 378 </SimpleData>
+		<SimpleData name="latitude">41.676944</SimpleData>
+		<SimpleData name="Longitude">26.555556</SimpleData>
+		<SimpleData name="Importance_rating">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>26.555556,41.676944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Battles">
+		<SimpleData name="Battle">Battle of Yarmouk</SimpleData>
+		<SimpleData name="Date">August 636 </SimpleData>
+		<SimpleData name="latitude">32.8141</SimpleData>
+		<SimpleData name="Longitude">35.9548</SimpleData>
+		<SimpleData name="Importance_rating">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.9548,32.8141</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Battles">
+		<SimpleData name="Battle">Battle of Hastings</SimpleData>
+		<SimpleData name="Date">October 1066</SimpleData>
+		<SimpleData name="latitude">50.854259</SimpleData>
+		<SimpleData name="Longitude">0.573453</SimpleData>
+		<SimpleData name="Importance_rating">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0.573453,50.854259</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Battles">
+		<SimpleData name="Battle">Battle of Crecy</SimpleData>
+		<SimpleData name="Date">August 1346</SimpleData>
+		<SimpleData name="latitude">50.257</SimpleData>
+		<SimpleData name="Longitude">1.904</SimpleData>
+		<SimpleData name="Importance_rating">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.904,50.257</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Battles">
+		<SimpleData name="Battle">Fall of Constantinople</SimpleData>
+		<SimpleData name="Date">May 1453</SimpleData>
+		<SimpleData name="latitude">41.013889</SimpleData>
+		<SimpleData name="Longitude">28.955556</SimpleData>
+		<SimpleData name="Importance_rating">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.955556,41.013889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Battles">
+		<SimpleData name="Battle">Battle of Cajamarca</SimpleData>
+		<SimpleData name="Date">November 1532</SimpleData>
+		<SimpleData name="latitude">-7.164444</SimpleData>
+		<SimpleData name="Longitude">-78.510556</SimpleData>
+		<SimpleData name="Importance_rating">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-78.510556,-7.164444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Battles">
+		<SimpleData name="Battle">Battle of Vienna</SimpleData>
+		<SimpleData name="Date">September 1683</SimpleData>
+		<SimpleData name="latitude">48.2</SimpleData>
+		<SimpleData name="Longitude">16.366667</SimpleData>
+		<SimpleData name="Importance_rating">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>16.366667,48.2</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Battles">
+		<SimpleData name="Battle">Battle of Saratoga</SimpleData>
+		<SimpleData name="Date">October 1777</SimpleData>
+		<SimpleData name="latitude">42.998889</SimpleData>
+		<SimpleData name="Longitude">-73.6375</SimpleData>
+		<SimpleData name="Importance_rating">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-73.6375,42.998889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Battles">
+		<SimpleData name="Battle">Battle of Gettysburg</SimpleData>
+		<SimpleData name="Date">July 1863</SimpleData>
+		<SimpleData name="latitude">39.811</SimpleData>
+		<SimpleData name="Longitude">-77.225</SimpleData>
+		<SimpleData name="Importance_rating">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.225,39.811</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Battles">
+		<SimpleData name="Battle">Battle of Stalingrad</SimpleData>
+		<SimpleData name="Date">Feb-43</SimpleData>
+		<SimpleData name="latitude">48.7</SimpleData>
+		<SimpleData name="Longitude">44.516667</SimpleData>
+		<SimpleData name="Importance_rating">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>44.516667,48.7</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Battles">
+		<SimpleData name="Battle">Allied Invasion of Normandy</SimpleData>
+		<SimpleData name="Date">Jun-44</SimpleData>
+		<SimpleData name="latitude">49.355747</SimpleData>
+		<SimpleData name="Longitude">-0.853079</SimpleData>
+		<SimpleData name="Importance_rating">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.853079,49.355747</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Battles">
+		<SimpleData name="Battle">Bombing of Hiroshima</SimpleData>
+		<SimpleData name="Date">Aug-45</SimpleData>
+		<SimpleData name="latitude">34.383333</SimpleData>
+		<SimpleData name="Longitude">132.45</SimpleData>
+		<SimpleData name="Importance_rating">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>132.45,34.383333</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
